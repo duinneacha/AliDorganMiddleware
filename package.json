@@ -1,0 +1,19 @@
+{
+  "name": "alidorganmiddleware",
+  "version": "1.0.0",
+  "description": "Middleware section for www.alidorgan.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duinneacha/AliDorganMiddleware.git"
+  },
+  "author": "Aidan Dennehy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duinneacha/AliDorganMiddleware/issues"
+  },
+  "homepage": "https://github.com/duinneacha/AliDorganMiddleware#readme"
+}
